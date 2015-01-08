@@ -1,1 +1,1 @@
-# window-sizex-
+# window-size-x
